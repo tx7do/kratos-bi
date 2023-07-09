@@ -1,0 +1,2 @@
+# kratos-bi
+Business Intelligence
